@@ -119,7 +119,7 @@ nagare
 [Nagareru]: https://www.nikoli.co.jp/ja/puzzles/nagareru_loop/ "Nagareru"
 [TdZdd]: https://github.com/kunisura/TdZdd "TdZdd"
 [pzv]: http://pzv.jp/ "PUZ-PRE"
-[example]: http://pzv.jp/p.html?nagare/10/10/f3d12a5c8c2k4a2a9j5b1b5a8c6a3c8a1a5b7a3a2d4h8c4c "example.txt"
+[example]: http://pzv.jp/p.html?nagare/10/10/k6a44k1g9f61c6a5b7c3g5c51b7a7a4k5g4d "example.txt"
 
 [b1]: http://tibisukemaru.blog.fc2.com/
 [b2]: http://kiiroipazuru.blog.fc2.com/
