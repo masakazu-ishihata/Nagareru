@@ -119,7 +119,24 @@ You may find the following files after `./nagareru --file random.txt --rand --wi
 This program is free software provided under MIT.  
 If you use the library, please cite the following paper:  
 ```
-To be added
+@InProceedings{ishihata_et_al:LIPIcs.SEA.2022.2,
+  author =	{Ishihata, Masakazu and Tokumasu, Fumiya},
+  title =	{{Solving and Generating Nagareru Puzzles}},
+  booktitle =	{20th International Symposium on Experimental Algorithms (SEA 2022)},
+  pages =	{2:1--2:17},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-251-8},
+  ISSN =	{1868-8969},
+  year =	{2022},
+  volume =	{233},
+  editor =	{Schulz, Christian and U\c{c}ar, Bora},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/opus/volltexte/2022/16536},
+  URN =		{urn:nbn:de:0030-drops-165366},
+  doi =		{10.4230/LIPIcs.SEA.2022.2},
+  annote =	{Keywords: Paper-and-pencil puzzle, SAT, CSP, ZDD}
+}
 ```
 
 
